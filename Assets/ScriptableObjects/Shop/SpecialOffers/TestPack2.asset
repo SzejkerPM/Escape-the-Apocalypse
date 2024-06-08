@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200ec2d2c2b4aba4c82034e07f84bed3, type: 3}
+  m_Name: TestPack2
+  m_EditorClassIdentifier: 
+  index: 4
+  offerName: Test Pack #2
+  buyForPriceString: FREE
+  firstItemName: Meds
+  firstItemQuantity: 10000
+  firstItemSprite: {fileID: 21300000, guid: 29264b5d2c9cc774db1cee0f709bec57, type: 3}
+  secondItemName: Leftovers
+  secondItemQuantity: 10000
+  secondItemSprite: {fileID: 21300000, guid: d6f5be8e1f1a5c345968b990fe2c54e7, type: 3}
+  thirdItemName: Scraps
+  thirdItemQuantity: 10000
+  thirdItemSprite: {fileID: 21300000, guid: 9532eec47cb302b4ba765ab9f9815dac, type: 3}
+  fourthItemName: 
+  fourthItemQuantity: 0
+  fourthItemSprite: {fileID: 0}

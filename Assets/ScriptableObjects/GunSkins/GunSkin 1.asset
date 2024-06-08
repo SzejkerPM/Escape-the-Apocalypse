@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c23e120d7b1f34e8b62a64e186558c, type: 3}
+  m_Name: GunSkin 1
+  m_EditorClassIdentifier: 
+  skinIndex: 1
+  skinName: GunSkin1
+  costGold: 100
+  isOwned: 1
+  skinModel: {fileID: 5489718829984709438, guid: 9cb0ea9926c194e449fd4d97f90214c4,
+    type: 3}

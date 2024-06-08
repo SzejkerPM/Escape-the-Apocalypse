@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d690fc9cc3a6254d89ebb0947c1fb0d, type: 3}
+  m_Name: PlayerSkin 1
+  m_EditorClassIdentifier: 
+  skinIndex: 1
+  skinName: Soldier
+  costGold: 100
+  isOwned: 1
+  skinModel: {fileID: 7760397458269166563, guid: 032313dc588613c4eb18defe29690513,
+    type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a3b776ebfa13543aaf9259d73cc648, type: 3}
+  m_Name: CraftMagnet
+  m_EditorClassIdentifier: 
+  index: 6
+  description: 
+  craftItemName: Magnet
+  craftItemAmount: 1
+  itemToUse: 
+  itemToUseAmount: 0
+  itemToCollect: 
+  itemToCollectAmount: 0
+  dieAfterScoreX: 0
+  dieBeforeScoreY: 0
+  enemiesToKill: 0
+  scoreToAchieve: 0
+  jumpsAmount: 0
+  slidesAmount: 0
+  achieveMaxSpeed: 0

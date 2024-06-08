@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">23810574686</string>
+  <string name="google_storage_bucket" translatable="false">escape-the-apocalypse.appspot.com</string>
+  <string name="project_id" translatable="false">escape-the-apocalypse</string>
+  <string name="google_api_key" translatable="false">AIzaSyBbvlr4ipPcuGtFHmmWIP-OVT4iYEKJVh8</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBbvlr4ipPcuGtFHmmWIP-OVT4iYEKJVh8</string>
+  <string name="google_app_id" translatable="false">1:23810574686:android:053e8c1abfe6cdc4fe27cf</string>
+  <string name="default_web_client_id" translatable="false">23810574686-f68tp58ov02kqaoq8u5ar5c87gdovgk4.apps.googleusercontent.com</string>
+</resources>

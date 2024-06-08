@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "23810574686",
+    "project_id": "escape-the-apocalypse",
+    "storage_bucket": "escape-the-apocalypse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23810574686:android:053e8c1abfe6cdc4fe27cf",
+        "android_client_info": {
+          "package_name": "escape.the.apocalypse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23810574686-f68tp58ov02kqaoq8u5ar5c87gdovgk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbvlr4ipPcuGtFHmmWIP-OVT4iYEKJVh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23810574686-f68tp58ov02kqaoq8u5ar5c87gdovgk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "23810574686-no0041cahfg7prl4onn0taqlt9d8q2k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "escape.the.apocalypse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
