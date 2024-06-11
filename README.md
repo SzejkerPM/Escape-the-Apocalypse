@@ -2,6 +2,13 @@
 
 Dumna nazwa mojej pierwszej, poważnej gry 3D.
 
+(Wiem, że gra jest napisana kiepsko i chaotycznie. 
+W firmie nie miałem dużo wsparcia, a termin gonił termin.
+Przez to jakość drastycznie spadła. 
+Nie definiuje to moich umiejętności.
+Firma zatrudniała masowo juniorów, a kod miał działać.
+Projekt "Fire Extinguisher był pisany spokojniej, choć mam świadomość, że też zawiera błędy początkującego)
+
 Czego nauczył mnie ten projekt?
 - pisania wielu mniejszych metod, zamiast jednej wielkiej
 - korzystania z interfejsów, bo są nieocenione
