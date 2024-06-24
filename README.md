@@ -2,14 +2,9 @@
 
 Dumna nazwa mojej pierwszej, poważnej gry 3D.
 
-(Wiem, że gra jest napisana kiepsko i chaotycznie. 
-W firmie nie miałem dużo wsparcia, a termin gonił termin.
-Przez to jakość drastycznie spadła. 
-Nie definiuje to moich umiejętności.
-Firma zatrudniała masowo juniorów, a kod miał działać.
-Projekt "Fire Extinguisher" był pisany spokojniej, choć mam świadomość, że też zawiera błędy początkującego)
+Projekt jest tragiczny, ale proszę, weźcie pod uwagę, że przez rok Junior pozostawiony sam sobie pisał systematycznie grę. Wyniosłem z niej masę wiedzy, nauczyłem się wiele i nie chcę, aby kolejny duży projekt tak wyglądał. :)
 
-Czego nauczył mnie ten projekt?
+Co wybiosłem z tego projektu?
 - pisania wielu mniejszych metod, zamiast jednej wielkiej
 - korzystania z interfejsów, bo są nieocenione
 - nie polegania ciągle na Scriptable Object
@@ -24,4 +19,5 @@ Czego nauczył mnie ten projekt?
 - korzystania z dostarczonych elementów 3D
 - łączenia ze sobą obiektów 3D
 - szerszej obsługi Unity
+- systematyczności, wywiązywania się z obowiązków, terminów itd.
 - i wiele, wiele innych
